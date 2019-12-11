@@ -1,0 +1,8 @@
+Z:\ASP.NET\OnlineShop\OnlineShop.Domain\bin\Debug\netcoreapp3.0\OnlineShop.Domain.deps.json
+Z:\ASP.NET\OnlineShop\OnlineShop.Domain\bin\Debug\netcoreapp3.0\OnlineShop.Domain.dll
+Z:\ASP.NET\OnlineShop\OnlineShop.Domain\bin\Debug\netcoreapp3.0\OnlineShop.Domain.pdb
+Z:\ASP.NET\OnlineShop\OnlineShop.Domain\obj\Debug\netcoreapp3.0\OnlineShop.Domain.csprojAssemblyReference.cache
+Z:\ASP.NET\OnlineShop\OnlineShop.Domain\obj\Debug\netcoreapp3.0\OnlineShop.Domain.AssemblyInfoInputs.cache
+Z:\ASP.NET\OnlineShop\OnlineShop.Domain\obj\Debug\netcoreapp3.0\OnlineShop.Domain.AssemblyInfo.cs
+Z:\ASP.NET\OnlineShop\OnlineShop.Domain\obj\Debug\netcoreapp3.0\OnlineShop.Domain.dll
+Z:\ASP.NET\OnlineShop\OnlineShop.Domain\obj\Debug\netcoreapp3.0\OnlineShop.Domain.pdb

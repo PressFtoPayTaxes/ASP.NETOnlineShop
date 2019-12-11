@@ -1,0 +1,13 @@
+Z:\ASP.NET\OnlineShop\OnlineShop.DataAccess\bin\Debug\netcoreapp3.0\OnlineShop.DataAccess.deps.json
+Z:\ASP.NET\OnlineShop\OnlineShop.DataAccess\bin\Debug\netcoreapp3.0\OnlineShop.DataAccess.dll
+Z:\ASP.NET\OnlineShop\OnlineShop.DataAccess\obj\Debug\netcoreapp3.0\OnlineShop.DataAccess.csprojAssemblyReference.cache
+Z:\ASP.NET\OnlineShop\OnlineShop.DataAccess\obj\Debug\netcoreapp3.0\OnlineShop.DataAccess.AssemblyInfoInputs.cache
+Z:\ASP.NET\OnlineShop\OnlineShop.DataAccess\obj\Debug\netcoreapp3.0\OnlineShop.DataAccess.AssemblyInfo.cs
+Z:\ASP.NET\OnlineShop\OnlineShop.DataAccess\bin\Debug\netcoreapp3.0\OnlineShop.DataAccess.runtimeconfig.json
+Z:\ASP.NET\OnlineShop\OnlineShop.DataAccess\bin\Debug\netcoreapp3.0\OnlineShop.DataAccess.runtimeconfig.dev.json
+Z:\ASP.NET\OnlineShop\OnlineShop.DataAccess\bin\Debug\netcoreapp3.0\OnlineShop.DataAccess.pdb
+Z:\ASP.NET\OnlineShop\OnlineShop.DataAccess\bin\Debug\netcoreapp3.0\OnlineShop.Domain.dll
+Z:\ASP.NET\OnlineShop\OnlineShop.DataAccess\bin\Debug\netcoreapp3.0\OnlineShop.Domain.pdb
+Z:\ASP.NET\OnlineShop\OnlineShop.DataAccess\obj\Debug\netcoreapp3.0\OnlineShop.DataAccess.csproj.CopyComplete
+Z:\ASP.NET\OnlineShop\OnlineShop.DataAccess\obj\Debug\netcoreapp3.0\OnlineShop.DataAccess.dll
+Z:\ASP.NET\OnlineShop\OnlineShop.DataAccess\obj\Debug\netcoreapp3.0\OnlineShop.DataAccess.pdb

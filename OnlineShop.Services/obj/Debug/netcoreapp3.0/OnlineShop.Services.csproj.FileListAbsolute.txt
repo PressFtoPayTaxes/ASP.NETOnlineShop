@@ -1,0 +1,11 @@
+Z:\ASP.NET\OnlineShop\OnlineShop.Services\bin\Debug\netcoreapp3.0\OnlineShop.Services.deps.json
+Z:\ASP.NET\OnlineShop\OnlineShop.Services\bin\Debug\netcoreapp3.0\OnlineShop.Services.dll
+Z:\ASP.NET\OnlineShop\OnlineShop.Services\obj\Debug\netcoreapp3.0\OnlineShop.Services.csprojAssemblyReference.cache
+Z:\ASP.NET\OnlineShop\OnlineShop.Services\obj\Debug\netcoreapp3.0\OnlineShop.Services.AssemblyInfoInputs.cache
+Z:\ASP.NET\OnlineShop\OnlineShop.Services\obj\Debug\netcoreapp3.0\OnlineShop.Services.AssemblyInfo.cs
+Z:\ASP.NET\OnlineShop\OnlineShop.Services\bin\Debug\netcoreapp3.0\OnlineShop.Services.pdb
+Z:\ASP.NET\OnlineShop\OnlineShop.Services\obj\Debug\netcoreapp3.0\OnlineShop.Services.dll
+Z:\ASP.NET\OnlineShop\OnlineShop.Services\obj\Debug\netcoreapp3.0\OnlineShop.Services.pdb
+Z:\ASP.NET\OnlineShop\OnlineShop.Services\bin\Debug\netcoreapp3.0\OnlineShop.DTO.dll
+Z:\ASP.NET\OnlineShop\OnlineShop.Services\bin\Debug\netcoreapp3.0\OnlineShop.DTO.pdb
+Z:\ASP.NET\OnlineShop\OnlineShop.Services\obj\Debug\netcoreapp3.0\OnlineShop.Services.csproj.CopyComplete
