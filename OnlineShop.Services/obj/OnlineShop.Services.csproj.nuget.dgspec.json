@@ -1,23 +1,98 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\ASP.NET\\OnlineShop\\OnlineShop.Services\\OnlineShop.Services.csproj": {}
+    "C:\\Users\\Admin\\Documents\\_STEP_OnlineShop\\OnlineShop.Services\\OnlineShop.Services.csproj": {}
   },
   "projects": {
-    "Z:\\ASP.NET\\OnlineShop\\OnlineShop.DTO\\OnlineShop.DTO.csproj": {
+    "C:\\Users\\Admin\\Documents\\_STEP_OnlineShop\\OnlineShop.DataAccess\\OnlineShop.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\ASP.NET\\OnlineShop\\OnlineShop.DTO\\OnlineShop.DTO.csproj",
-        "projectName": "OnlineShop.DTO",
-        "projectPath": "Z:\\ASP.NET\\OnlineShop\\OnlineShop.DTO\\OnlineShop.DTO.csproj",
-        "packagesPath": "C:\\Users\\СкоропадИг\\.nuget\\packages\\",
-        "outputPath": "Z:\\ASP.NET\\OnlineShop\\OnlineShop.DTO\\obj\\",
+        "projectUniqueName": "C:\\Users\\Admin\\Documents\\_STEP_OnlineShop\\OnlineShop.DataAccess\\OnlineShop.DataAccess.csproj",
+        "projectName": "OnlineShop.DataAccess",
+        "projectPath": "C:\\Users\\Admin\\Documents\\_STEP_OnlineShop\\OnlineShop.DataAccess\\OnlineShop.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Documents\\_STEP_OnlineShop\\OnlineShop.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\СкоропадИг\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\Admin\\Documents\\_STEP_OnlineShop\\OnlineShop.Domain\\OnlineShop.Domain.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Documents\\_STEP_OnlineShop\\OnlineShop.Domain\\OnlineShop.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Admin\\Documents\\_STEP_OnlineShop\\OnlineShop.Domain\\OnlineShop.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Admin\\Documents\\_STEP_OnlineShop\\OnlineShop.Domain\\OnlineShop.Domain.csproj",
+        "projectName": "OnlineShop.Domain",
+        "projectPath": "C:\\Users\\Admin\\Documents\\_STEP_OnlineShop\\OnlineShop.Domain\\OnlineShop.Domain.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Documents\\_STEP_OnlineShop\\OnlineShop.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -59,20 +134,130 @@
         }
       }
     },
-    "Z:\\ASP.NET\\OnlineShop\\OnlineShop.Services\\OnlineShop.Services.csproj": {
+    "C:\\Users\\Admin\\Documents\\_STEP_OnlineShop\\OnlineShop.DTO\\OnlineShop.DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\ASP.NET\\OnlineShop\\OnlineShop.Services\\OnlineShop.Services.csproj",
-        "projectName": "OnlineShop.Services",
-        "projectPath": "Z:\\ASP.NET\\OnlineShop\\OnlineShop.Services\\OnlineShop.Services.csproj",
-        "packagesPath": "C:\\Users\\СкоропадИг\\.nuget\\packages\\",
-        "outputPath": "Z:\\ASP.NET\\OnlineShop\\OnlineShop.Services\\obj\\",
+        "projectUniqueName": "C:\\Users\\Admin\\Documents\\_STEP_OnlineShop\\OnlineShop.DTO\\OnlineShop.DTO.csproj",
+        "projectName": "OnlineShop.DTO",
+        "projectPath": "C:\\Users\\Admin\\Documents\\_STEP_OnlineShop\\OnlineShop.DTO\\OnlineShop.DTO.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Documents\\_STEP_OnlineShop\\OnlineShop.DTO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\СкоропадИг\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Admin\\Documents\\_STEP_OnlineShop\\OnlineShop.Options\\OnlineShop.Options.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Admin\\Documents\\_STEP_OnlineShop\\OnlineShop.Options\\OnlineShop.Options.csproj",
+        "projectName": "OnlineShop.Options",
+        "projectPath": "C:\\Users\\Admin\\Documents\\_STEP_OnlineShop\\OnlineShop.Options\\OnlineShop.Options.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Documents\\_STEP_OnlineShop\\OnlineShop.Options\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Admin\\Documents\\_STEP_OnlineShop\\OnlineShop.Services\\OnlineShop.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Admin\\Documents\\_STEP_OnlineShop\\OnlineShop.Services\\OnlineShop.Services.csproj",
+        "projectName": "OnlineShop.Services",
+        "projectPath": "C:\\Users\\Admin\\Documents\\_STEP_OnlineShop\\OnlineShop.Services\\OnlineShop.Services.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Documents\\_STEP_OnlineShop\\OnlineShop.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -85,8 +270,14 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "Z:\\ASP.NET\\OnlineShop\\OnlineShop.DTO\\OnlineShop.DTO.csproj": {
-                "projectPath": "Z:\\ASP.NET\\OnlineShop\\OnlineShop.DTO\\OnlineShop.DTO.csproj"
+              "C:\\Users\\Admin\\Documents\\_STEP_OnlineShop\\OnlineShop.DataAccess\\OnlineShop.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Documents\\_STEP_OnlineShop\\OnlineShop.DataAccess\\OnlineShop.DataAccess.csproj"
+              },
+              "C:\\Users\\Admin\\Documents\\_STEP_OnlineShop\\OnlineShop.DTO\\OnlineShop.DTO.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Documents\\_STEP_OnlineShop\\OnlineShop.DTO\\OnlineShop.DTO.csproj"
+              },
+              "C:\\Users\\Admin\\Documents\\_STEP_OnlineShop\\OnlineShop.Options\\OnlineShop.Options.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Documents\\_STEP_OnlineShop\\OnlineShop.Options\\OnlineShop.Options.csproj"
               }
             }
           }

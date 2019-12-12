@@ -8,23 +8,23 @@
     ".NETCoreApp,Version=v3.0": []
   },
   "packageFolders": {
-    "C:\\Users\\СкоропадИг\\.nuget\\packages\\": {},
+    "C:\\Users\\Admin\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\ASP.NET\\OnlineShop\\OnlineShop.DTO\\OnlineShop.DTO.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Documents\\_STEP_OnlineShop\\OnlineShop.DTO\\OnlineShop.DTO.csproj",
       "projectName": "OnlineShop.DTO",
-      "projectPath": "Z:\\ASP.NET\\OnlineShop\\OnlineShop.DTO\\OnlineShop.DTO.csproj",
-      "packagesPath": "C:\\Users\\СкоропадИг\\.nuget\\packages\\",
-      "outputPath": "Z:\\ASP.NET\\OnlineShop\\OnlineShop.DTO\\obj\\",
+      "projectPath": "C:\\Users\\Admin\\Documents\\_STEP_OnlineShop\\OnlineShop.DTO\\OnlineShop.DTO.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Admin\\Documents\\_STEP_OnlineShop\\OnlineShop.DTO\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\СкоропадИг\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
