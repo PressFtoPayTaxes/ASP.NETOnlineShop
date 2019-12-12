@@ -950,29 +950,30 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.0": [
       "Microsoft.EntityFrameworkCore >= 3.1.0",
+      "Microsoft.EntityFrameworkCore.Analyzers >= 3.1.0",
       "Microsoft.EntityFrameworkCore.Tools >= 3.1.0",
       "Npgsql.EntityFrameworkCore.PostgreSQL >= 3.1.0",
       "OnlineShop.Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {},
+    "C:\\Users\\СкоропадИг\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Documents\\_STEP_OnlineShop\\OnlineShop.DataAccess\\OnlineShop.DataAccess.csproj",
+      "projectUniqueName": "Z:\\ASP.NET\\OnlineShop\\OnlineShop.DataAccess\\OnlineShop.DataAccess.csproj",
       "projectName": "OnlineShop.DataAccess",
-      "projectPath": "C:\\Users\\Admin\\Documents\\_STEP_OnlineShop\\OnlineShop.DataAccess\\OnlineShop.DataAccess.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Documents\\_STEP_OnlineShop\\OnlineShop.DataAccess\\obj\\",
+      "projectPath": "Z:\\ASP.NET\\OnlineShop\\OnlineShop.DataAccess\\OnlineShop.DataAccess.csproj",
+      "packagesPath": "C:\\Users\\СкоропадИг\\.nuget\\packages\\",
+      "outputPath": "Z:\\ASP.NET\\OnlineShop\\OnlineShop.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\СкоропадИг\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -985,8 +986,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Users\\Admin\\Documents\\_STEP_OnlineShop\\OnlineShop.Domain\\OnlineShop.Domain.csproj": {
-              "projectPath": "C:\\Users\\Admin\\Documents\\_STEP_OnlineShop\\OnlineShop.Domain\\OnlineShop.Domain.csproj"
+            "Z:\\ASP.NET\\OnlineShop\\OnlineShop.Domain\\OnlineShop.Domain.csproj": {
+              "projectPath": "Z:\\ASP.NET\\OnlineShop\\OnlineShop.Domain\\OnlineShop.Domain.csproj"
             }
           }
         }
@@ -1001,6 +1002,10 @@
       "netcoreapp3.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": {
+            "target": "Package",
+            "version": "[3.1.0, )"
+          },
+          "Microsoft.EntityFrameworkCore.Analyzers": {
             "target": "Package",
             "version": "[3.1.0, )"
           },

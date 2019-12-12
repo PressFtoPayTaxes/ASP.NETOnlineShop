@@ -20,3 +20,9 @@ C:\Users\Admin\Documents\_STEP_OnlineShop\OnlineShop.Services\obj\Debug\netcorea
 C:\Users\Admin\Documents\_STEP_OnlineShop\OnlineShop.Services\obj\Debug\netcoreapp3.0\OnlineShop.Services.csproj.CopyComplete
 C:\Users\Admin\Documents\_STEP_OnlineShop\OnlineShop.Services\obj\Debug\netcoreapp3.0\OnlineShop.Services.dll
 C:\Users\Admin\Documents\_STEP_OnlineShop\OnlineShop.Services\obj\Debug\netcoreapp3.0\OnlineShop.Services.pdb
+Z:\ASP.NET\OnlineShop\OnlineShop.Services\bin\Debug\netcoreapp3.0\OnlineShop.DataAccess.dll
+Z:\ASP.NET\OnlineShop\OnlineShop.Services\bin\Debug\netcoreapp3.0\OnlineShop.Options.dll
+Z:\ASP.NET\OnlineShop\OnlineShop.Services\bin\Debug\netcoreapp3.0\OnlineShop.Domain.dll
+Z:\ASP.NET\OnlineShop\OnlineShop.Services\bin\Debug\netcoreapp3.0\OnlineShop.DataAccess.pdb
+Z:\ASP.NET\OnlineShop\OnlineShop.Services\bin\Debug\netcoreapp3.0\OnlineShop.Domain.pdb
+Z:\ASP.NET\OnlineShop\OnlineShop.Services\bin\Debug\netcoreapp3.0\OnlineShop.Options.pdb

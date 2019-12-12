@@ -1,0 +1,8 @@
+Z:\ASP.NET\OnlineShop\OnlineShop.Options\bin\Debug\netcoreapp3.0\OnlineShop.Options.deps.json
+Z:\ASP.NET\OnlineShop\OnlineShop.Options\bin\Debug\netcoreapp3.0\OnlineShop.Options.dll
+Z:\ASP.NET\OnlineShop\OnlineShop.Options\bin\Debug\netcoreapp3.0\OnlineShop.Options.pdb
+Z:\ASP.NET\OnlineShop\OnlineShop.Options\obj\Debug\netcoreapp3.0\OnlineShop.Options.csprojAssemblyReference.cache
+Z:\ASP.NET\OnlineShop\OnlineShop.Options\obj\Debug\netcoreapp3.0\OnlineShop.Options.AssemblyInfoInputs.cache
+Z:\ASP.NET\OnlineShop\OnlineShop.Options\obj\Debug\netcoreapp3.0\OnlineShop.Options.AssemblyInfo.cs
+Z:\ASP.NET\OnlineShop\OnlineShop.Options\obj\Debug\netcoreapp3.0\OnlineShop.Options.dll
+Z:\ASP.NET\OnlineShop\OnlineShop.Options\obj\Debug\netcoreapp3.0\OnlineShop.Options.pdb

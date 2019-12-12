@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Documents\\_STEP_OnlineShop\\OnlineShop.Domain\\OnlineShop.Domain.csproj": {}
+    "Z:\\ASP.NET\\OnlineShop\\OnlineShop.Domain\\OnlineShop.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Documents\\_STEP_OnlineShop\\OnlineShop.Domain\\OnlineShop.Domain.csproj": {
+    "Z:\\ASP.NET\\OnlineShop\\OnlineShop.Domain\\OnlineShop.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Documents\\_STEP_OnlineShop\\OnlineShop.Domain\\OnlineShop.Domain.csproj",
+        "projectUniqueName": "Z:\\ASP.NET\\OnlineShop\\OnlineShop.Domain\\OnlineShop.Domain.csproj",
         "projectName": "OnlineShop.Domain",
-        "projectPath": "C:\\Users\\Admin\\Documents\\_STEP_OnlineShop\\OnlineShop.Domain\\OnlineShop.Domain.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Documents\\_STEP_OnlineShop\\OnlineShop.Domain\\obj\\",
+        "projectPath": "Z:\\ASP.NET\\OnlineShop\\OnlineShop.Domain\\OnlineShop.Domain.csproj",
+        "packagesPath": "C:\\Users\\СкоропадИг\\.nuget\\packages\\",
+        "outputPath": "Z:\\ASP.NET\\OnlineShop\\OnlineShop.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\СкоропадИг\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
