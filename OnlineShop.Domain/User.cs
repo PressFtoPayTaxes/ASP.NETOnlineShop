@@ -10,8 +10,8 @@ namespace OnlineShop.Domain
         public string VerificationCode { get; set; }
         public string FullName { get; set; }
         public string NotificationDeviceId { get; set; }
-        public virtual ICollection<Order> Orders { get; set; }
+        public virtual ICollection<Order> Orders { get; set; } = new List<Order>();
         public virtual Cart Cart { get; set; }
-        public virtual ICollection<FavoriteProduct> FavoriteProducts { get; set; }
+        public virtual ICollection<FavoriteProduct> FavoriteProducts { get; set; } = new List<FavoriteProduct>();
     }
 }

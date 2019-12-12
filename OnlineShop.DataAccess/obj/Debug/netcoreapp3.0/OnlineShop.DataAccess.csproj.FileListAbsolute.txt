@@ -11,3 +11,16 @@ Z:\ASP.NET\OnlineShop\OnlineShop.DataAccess\bin\Debug\netcoreapp3.0\OnlineShop.D
 Z:\ASP.NET\OnlineShop\OnlineShop.DataAccess\obj\Debug\netcoreapp3.0\OnlineShop.DataAccess.csproj.CopyComplete
 Z:\ASP.NET\OnlineShop\OnlineShop.DataAccess\obj\Debug\netcoreapp3.0\OnlineShop.DataAccess.dll
 Z:\ASP.NET\OnlineShop\OnlineShop.DataAccess\obj\Debug\netcoreapp3.0\OnlineShop.DataAccess.pdb
+C:\Users\Admin\Documents\_STEP_OnlineShop\OnlineShop.DataAccess\bin\Debug\netcoreapp3.0\OnlineShop.DataAccess.deps.json
+C:\Users\Admin\Documents\_STEP_OnlineShop\OnlineShop.DataAccess\bin\Debug\netcoreapp3.0\OnlineShop.DataAccess.runtimeconfig.json
+C:\Users\Admin\Documents\_STEP_OnlineShop\OnlineShop.DataAccess\bin\Debug\netcoreapp3.0\OnlineShop.DataAccess.runtimeconfig.dev.json
+C:\Users\Admin\Documents\_STEP_OnlineShop\OnlineShop.DataAccess\bin\Debug\netcoreapp3.0\OnlineShop.DataAccess.dll
+C:\Users\Admin\Documents\_STEP_OnlineShop\OnlineShop.DataAccess\bin\Debug\netcoreapp3.0\OnlineShop.DataAccess.pdb
+C:\Users\Admin\Documents\_STEP_OnlineShop\OnlineShop.DataAccess\bin\Debug\netcoreapp3.0\OnlineShop.Domain.dll
+C:\Users\Admin\Documents\_STEP_OnlineShop\OnlineShop.DataAccess\bin\Debug\netcoreapp3.0\OnlineShop.Domain.pdb
+C:\Users\Admin\Documents\_STEP_OnlineShop\OnlineShop.DataAccess\obj\Debug\netcoreapp3.0\OnlineShop.DataAccess.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\_STEP_OnlineShop\OnlineShop.DataAccess\obj\Debug\netcoreapp3.0\OnlineShop.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\_STEP_OnlineShop\OnlineShop.DataAccess\obj\Debug\netcoreapp3.0\OnlineShop.DataAccess.AssemblyInfo.cs
+C:\Users\Admin\Documents\_STEP_OnlineShop\OnlineShop.DataAccess\obj\Debug\netcoreapp3.0\OnlineShop.DataAccess.csproj.CopyComplete
+C:\Users\Admin\Documents\_STEP_OnlineShop\OnlineShop.DataAccess\obj\Debug\netcoreapp3.0\OnlineShop.DataAccess.dll
+C:\Users\Admin\Documents\_STEP_OnlineShop\OnlineShop.DataAccess\obj\Debug\netcoreapp3.0\OnlineShop.DataAccess.pdb

@@ -9,3 +9,14 @@ Z:\ASP.NET\OnlineShop\OnlineShop.Services\obj\Debug\netcoreapp3.0\OnlineShop.Ser
 Z:\ASP.NET\OnlineShop\OnlineShop.Services\bin\Debug\netcoreapp3.0\OnlineShop.DTO.dll
 Z:\ASP.NET\OnlineShop\OnlineShop.Services\bin\Debug\netcoreapp3.0\OnlineShop.DTO.pdb
 Z:\ASP.NET\OnlineShop\OnlineShop.Services\obj\Debug\netcoreapp3.0\OnlineShop.Services.csproj.CopyComplete
+C:\Users\Admin\Documents\_STEP_OnlineShop\OnlineShop.Services\bin\Debug\netcoreapp3.0\OnlineShop.Services.deps.json
+C:\Users\Admin\Documents\_STEP_OnlineShop\OnlineShop.Services\bin\Debug\netcoreapp3.0\OnlineShop.Services.dll
+C:\Users\Admin\Documents\_STEP_OnlineShop\OnlineShop.Services\bin\Debug\netcoreapp3.0\OnlineShop.Services.pdb
+C:\Users\Admin\Documents\_STEP_OnlineShop\OnlineShop.Services\bin\Debug\netcoreapp3.0\OnlineShop.DTO.dll
+C:\Users\Admin\Documents\_STEP_OnlineShop\OnlineShop.Services\bin\Debug\netcoreapp3.0\OnlineShop.DTO.pdb
+C:\Users\Admin\Documents\_STEP_OnlineShop\OnlineShop.Services\obj\Debug\netcoreapp3.0\OnlineShop.Services.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\_STEP_OnlineShop\OnlineShop.Services\obj\Debug\netcoreapp3.0\OnlineShop.Services.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\_STEP_OnlineShop\OnlineShop.Services\obj\Debug\netcoreapp3.0\OnlineShop.Services.AssemblyInfo.cs
+C:\Users\Admin\Documents\_STEP_OnlineShop\OnlineShop.Services\obj\Debug\netcoreapp3.0\OnlineShop.Services.csproj.CopyComplete
+C:\Users\Admin\Documents\_STEP_OnlineShop\OnlineShop.Services\obj\Debug\netcoreapp3.0\OnlineShop.Services.dll
+C:\Users\Admin\Documents\_STEP_OnlineShop\OnlineShop.Services\obj\Debug\netcoreapp3.0\OnlineShop.Services.pdb
