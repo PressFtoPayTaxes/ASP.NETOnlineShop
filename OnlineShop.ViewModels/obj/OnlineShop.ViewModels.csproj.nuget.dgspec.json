@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\ASP.NET\\OnlineShop\\OnlineShop.ViewModels\\OnlineShop.ViewModels.csproj": {}
+    "Z:\\ASP.NETOnlineShop\\OnlineShop\\OnlineShop.ViewModels\\OnlineShop.ViewModels.csproj": {}
   },
   "projects": {
-    "Z:\\ASP.NET\\OnlineShop\\OnlineShop.ViewModels\\OnlineShop.ViewModels.csproj": {
+    "Z:\\ASP.NETOnlineShop\\OnlineShop\\OnlineShop.ViewModels\\OnlineShop.ViewModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\ASP.NET\\OnlineShop\\OnlineShop.ViewModels\\OnlineShop.ViewModels.csproj",
+        "projectUniqueName": "Z:\\ASP.NETOnlineShop\\OnlineShop\\OnlineShop.ViewModels\\OnlineShop.ViewModels.csproj",
         "projectName": "OnlineShop.ViewModels",
-        "projectPath": "Z:\\ASP.NET\\OnlineShop\\OnlineShop.ViewModels\\OnlineShop.ViewModels.csproj",
-        "packagesPath": "C:\\Users\\СкоропадИг\\.nuget\\packages\\",
-        "outputPath": "Z:\\ASP.NET\\OnlineShop\\OnlineShop.ViewModels\\obj\\",
+        "projectPath": "Z:\\ASP.NETOnlineShop\\OnlineShop\\OnlineShop.ViewModels\\OnlineShop.ViewModels.csproj",
+        "packagesPath": "C:\\Users\\СкоропадИг.CORP\\.nuget\\packages\\",
+        "outputPath": "Z:\\ASP.NETOnlineShop\\OnlineShop\\OnlineShop.ViewModels\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\СкоропадИг\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\СкоропадИг.CORP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

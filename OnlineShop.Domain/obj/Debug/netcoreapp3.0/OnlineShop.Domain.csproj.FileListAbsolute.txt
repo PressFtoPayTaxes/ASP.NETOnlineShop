@@ -14,3 +14,11 @@ C:\Users\Admin\Documents\_STEP_OnlineShop\OnlineShop.Domain\obj\Debug\netcoreapp
 C:\Users\Admin\Documents\_STEP_OnlineShop\OnlineShop.Domain\obj\Debug\netcoreapp3.0\OnlineShop.Domain.AssemblyInfo.cs
 C:\Users\Admin\Documents\_STEP_OnlineShop\OnlineShop.Domain\obj\Debug\netcoreapp3.0\OnlineShop.Domain.dll
 C:\Users\Admin\Documents\_STEP_OnlineShop\OnlineShop.Domain\obj\Debug\netcoreapp3.0\OnlineShop.Domain.pdb
+Z:\ASP.NETOnlineShop\OnlineShop\OnlineShop.Domain\bin\Debug\netcoreapp3.0\OnlineShop.Domain.deps.json
+Z:\ASP.NETOnlineShop\OnlineShop\OnlineShop.Domain\bin\Debug\netcoreapp3.0\OnlineShop.Domain.dll
+Z:\ASP.NETOnlineShop\OnlineShop\OnlineShop.Domain\bin\Debug\netcoreapp3.0\OnlineShop.Domain.pdb
+Z:\ASP.NETOnlineShop\OnlineShop\OnlineShop.Domain\obj\Debug\netcoreapp3.0\OnlineShop.Domain.csprojAssemblyReference.cache
+Z:\ASP.NETOnlineShop\OnlineShop\OnlineShop.Domain\obj\Debug\netcoreapp3.0\OnlineShop.Domain.AssemblyInfoInputs.cache
+Z:\ASP.NETOnlineShop\OnlineShop\OnlineShop.Domain\obj\Debug\netcoreapp3.0\OnlineShop.Domain.AssemblyInfo.cs
+Z:\ASP.NETOnlineShop\OnlineShop\OnlineShop.Domain\obj\Debug\netcoreapp3.0\OnlineShop.Domain.dll
+Z:\ASP.NETOnlineShop\OnlineShop\OnlineShop.Domain\obj\Debug\netcoreapp3.0\OnlineShop.Domain.pdb
